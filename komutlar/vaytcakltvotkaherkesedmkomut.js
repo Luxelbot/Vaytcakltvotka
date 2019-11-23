@@ -22,7 +22,7 @@ exports.conf = {
 };
 
 exports.help = {
-  name: 'herkesedm',
+  name: 'vaytcakltvotkaherkesedmkomut',
   description: 'Ýstediðiniz þeyi bota duyurtur. Sadece Bot Kurucularý Yapar.',
   usage: 'vaytcakltvotkaherkesedmkomut [duyurmak istediðiniz þey]'
 };
