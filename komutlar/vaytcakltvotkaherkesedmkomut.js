@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 
 exports.run = (client, message, args) => {
   let mesaj = args.slice(0).join(' ');
-if (mesaj.length < 1) return message.channel.send('Özel DM den göndermek Ýstediðiniz Mesajý Yazýnýz.');
+if (mesaj.length < 1) return message.channel.send('Ã–zel DM den gÃ¶ndermek ÃstediÃ°iniz MesajÃ½ YazÃ½nÃ½z.');
   message.delete();
       const mesajat = new Discord.RichEmbed()
 	  .setTitle("Vaytcakltvotka Ozel Mesaj!")
@@ -23,6 +23,6 @@ exports.conf = {
 
 exports.help = {
   name: 'herkesedm',
-  description: 'Ýstediðiniz þeyi bota duyurtur. Sadece Bot Kurucularý Yapar.',
-  usage: 'herkesedm [duyurmak istediðiniz þey]'
+  description: 'ÃstediÃ°iniz Ã¾eyi bota duyurtur. Sadece Bot KurucularÃ½ Yapar.',
+  usage: 'vaytcakltvotkaherkesedmkomut [duyurmak istediÃ°iniz Ã¾ey]'
 };
