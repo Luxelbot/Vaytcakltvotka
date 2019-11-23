@@ -17,7 +17,7 @@ exports.conf = {
 };
 
 exports.help = {
-  name: 'oynuyor',
+  name: 'vaytcakltvotkaoynuyorkomut',
   description: '+Yardim Yaz Bi Hele',
   usage: 'vaytcakltvotkaoynuyorkomut'
 };
