@@ -19,5 +19,5 @@ exports.conf = {
 exports.help = {
   name: 'oynuyor',
   description: '+Yardim Yaz Bi Hele',
-  usage: 'oynuyor'
+  usage: 'vaytcakltvotkaoynuyorkomut'
 };
